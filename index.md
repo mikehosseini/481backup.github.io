@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link] (./welcometojekyll.html) <br>
+[Welcome](./WelcometoJekyll.html) <br>
 [Test](./another-page.html). <br>
 [Link to another page](./test.html).
 
