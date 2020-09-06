@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.html). <br>
+<h3>[Link to another page](./test.html).</h3>
 
 There should be whitespace between paragraphs.
 
