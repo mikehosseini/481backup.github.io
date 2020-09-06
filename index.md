@@ -9,9 +9,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./test.html).
 
 
-# Blog 0
+# POSTS
 
-[Blog 0] (./2020-09-06-blog0.html)
+[Blog 0](./2020-09-06-blog0.html)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
