@@ -13,7 +13,7 @@ title: "CIT 480/1 Blogs - Mike Hosseini"
 
 ### [Blog 2](./posts/2021/03/05/sp21Blog-2.html)
 
-### [Blog 3](./posts/2021/03/12/sp21Blog-3.html)
+### [Blog 3](./mikehosseini.github.io/posts/2021/03/12/sp21Blog-3.html)
 
 ### [Blog 4](./posts/2021/03/26/sp21Blog-4.html)
 
