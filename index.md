@@ -29,5 +29,3 @@ title: "CIT 480/1 Blogs - Mike Hosseini"
 
 ### [Blog 10](./posts/2021/05/07/sp21Blog-10.html)
 
-### [Blog 11](./posts/2021/05/14/sp21Blog-11.html)
-
